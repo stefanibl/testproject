@@ -8,7 +8,8 @@ public class Main {
 	sayGoodBye("Monday");
         System.out.println("Introduction");
         System.out.println("new commit");
-        System.out.println("Stefani");
+        System.out.println("Stefani is learning");
+        System.out.println("Learning GIT");
     }
 
     public int getAge() {

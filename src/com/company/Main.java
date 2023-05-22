@@ -12,6 +12,7 @@ public class Main {
         System.out.println("new change");
     }
 
+    private int a = 27;
     public int getAge() {
         return age;
     }

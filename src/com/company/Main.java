@@ -7,6 +7,7 @@ public class Main {
 	sayHello("Stefani");
 	sayGoodBye("Monday");
         System.out.println("Introduction");
+        System.out.println("new commit");
     }
 
     public int getAge() {

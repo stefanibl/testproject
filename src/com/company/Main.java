@@ -13,6 +13,7 @@ public class Main {
         System.out.println("revert");
         System.out.println("Hello Ivana");
         System.out.println("Amend");
+        System.out.println("Git Bash");
     }
 
     private int a = 27;

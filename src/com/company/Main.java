@@ -10,6 +10,7 @@ public class Main {
         System.out.println("new commit");
         System.out.println("Stefani");
         System.out.println("new change");
+        System.out.println("revert");
     }
 
     private int a = 27;

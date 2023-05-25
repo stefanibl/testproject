@@ -12,6 +12,7 @@ public class Main {
         System.out.println("new change");
         System.out.println("revert");
         System.out.println("my branch");
+        System.out.println("Homework");
     }
 
     private int a = 27;
